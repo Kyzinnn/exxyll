@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bas
 
 # Color variable
 RED='\033[0;31m'
